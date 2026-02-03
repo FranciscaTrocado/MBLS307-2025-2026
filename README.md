@@ -1,4 +1,4 @@
-# MBLS307-2025-2026
+# MBLS307 Omics for the Life Sciences 2025-2026
 This repository contains code for the GWAS assignment in the course Omics for the Life Sciences 2025-2026. It is based on the publication Dijkhuizen et al., 2024:
 - https://doi.org/10.1111/tpj.70405
 - https://github.com/SnoekLab/Dijkhuizen_etal_2025_Drone/tree/main
